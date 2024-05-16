@@ -1,0 +1,28 @@
+.header-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+}
+.nav-middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-middle a{
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+.nav-middle ul{
+    display: flex;
+    gap: 60px;
+}
+.nav-right{
+    display: flex;
+}
+.nav-right ul{
+    display: flex;
+}
+.nav-right a{
+    color: black;
+}
